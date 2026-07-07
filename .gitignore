@@ -3,3 +3,6 @@
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# TTS narration scripts (generated, never committed)
+docs/TTS/
